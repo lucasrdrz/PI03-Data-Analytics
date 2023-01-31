@@ -23,3 +23,7 @@ Coursera_courses.csv
 Coursera_reviews.csv
 Edx.csv
 Udemy.csv
+
+# Archivo De Power Bi
+https://drive.google.com/drive/folders/1jDixLHkr_zSGnHOH3NzgUaA-RAbRnIcW?usp=share_link
+Lo subi desde google drive ya que github no me permitia subirlo por que pesaba mas de 25mb
